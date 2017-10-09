@@ -3,7 +3,7 @@ Tutorial repository
 
 Hi!
 
-I'm making a test
-Changes made to the file
+I'm making a test.
+Changes made to the file.
 
 Bye!
